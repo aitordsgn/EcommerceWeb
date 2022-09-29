@@ -3,36 +3,104 @@
        "image": "img/products/n1.jpg",
        "title": "Men's Fashion T Shirt",
        "description": "Lorem ipsum dolor sit amet consectetur.",
-       "price": "9,99"
+       "price": "78,00"
     },
     {
        "image": "img/products/n2.jpg",
        "title": "Men's Fashion T Shirt 2",
        "description": "Lorem ipsum dolor sit amet consectetur.",
-       "price": "9,99"
+       "price": "79,99"
     },
     {
        "image": "img/products/n3.jpg",
        "title": "Men's Fashion T Shirt 3",
        "description": "Lorem ipsum dolor sit amet consectetur.",
-       "price": "9,99"
+       "price": "80,99"
     },
     {
        "image": "img/products/n3.jpg",
        "title": "Men's Fashion T Shirt 4",
        "description": "Lorem ipsum dolor sit amet consectetur.",
-       "price": "9,99"
+       "price": "50,99"
     },
     {
        "image": "img/products/n4.jpg",
        "title": "Men's Fashion T Shirt 5",
        "description": "Lorem ipsum dolor sit amet consectetur.",
-       "price": "9,99"
+       "price": "60,99"
     },
     {
        "image": "img/products/n5.jpg",
        "title": "Product title",
        "description": "Lorem ipsum dolor sit amet consectetur.",
-       "price": "9,99"
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/n6.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/n7.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/n8.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/f1.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/f2.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/f3.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
     }
+    ,
+    {
+       "image": "img/products/f4.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/f5.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/f6.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/f7.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    },
+    {
+       "image": "img/products/f8.jpg",
+       "title": "Product title",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "40,99"
+    }
+    
  ]

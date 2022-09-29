@@ -23,6 +23,7 @@ http.onload = function(){
         <h4>${item.price}$$</h4>
     </div>
     <a href="#" class="cart"><span class="material-icons-outlined">shopping_cart</span></a>
+    </div>
     `;
       }
       document.querySelector(".pro-container").innerHTML = output;

@@ -6,7 +6,7 @@ I have been following a youtube tutorial playlist: https://www.youtube.com/playl
 The base web has been made by following that tutorial, but now I am implementing changes on my own.
 
 -  **Languages :** HTML, CSS, JavaScript, JSON
-
+- This web is responsive for Medium & Small devices
 
 The changes that **I made by my own** will be the next one:
 - Read an ".json" file for making an automatic product reader.

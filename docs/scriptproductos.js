@@ -25,6 +25,6 @@ http.onload = function(){
     <a href="#" class="cart"><span class="material-icons-outlined">shopping_cart</span></a>
     `;
       }
-      document.querySelector(".products").innerHTML = output;
+      document.querySelector(".pro-container").innerHTML = output;
    }
 }

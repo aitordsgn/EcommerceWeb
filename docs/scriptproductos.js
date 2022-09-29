@@ -7,17 +7,23 @@ http.onload = function(){
       let output = "";
       for(let item of products){
          output += `
-            <div class="product">
-               <img src="${item.image}" alt="${item.description}">
-               <p class="title">${item.title}</p>
-               <p class="description">${item.description}</p>
-               <p class="price">
-                  <span>${item.price}</span>
-                  <span>€</span>
-               </p>
-               <p class="cart">Add to cart <i class="bx bx-cart-alt"></i></p>
-            </div>
-         `;
+         <div class="pro">
+        <img src="${item.image}" alt="${item.image}">
+        <div class="des">
+            <span> adidas</span>
+            <h5>${item.title}</h5>
+        <div class="star">
+            <span class="material-icons-outlined" id="star">star</span>
+            <span class="material-icons-outlined" id="star">star</span>
+            <span class="material-icons-outlined" id="star">star</span>
+            <span class="material-icons-outlined" id="star">star</span>
+            <span class="material-icons-outlined" id="star">star</span>
+
+        </div>
+        <h4>${item.price}$$</h4>
+    </div>
+    <a href="#" class="cart"><span class="material-icons-outlined">shopping_cart</span></a>
+    `;
       }
       document.querySelector(".products").innerHTML = output;
    }
